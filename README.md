@@ -43,7 +43,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **CRM Nova Clinic** *(privado)* | CRM para una clínica en Perú que gestiona la agenda de citas de los pacientes | — |
+| **CRM Nova Clinic** *(privado)* | CRM para una clínica en Perú que gestiona la agenda de citas de los pacientes | Java |
 | **Tienda de componentes** | Aplicación de tienda conectada a una base de datos | Java · JDBC · H2 |
 | **RedLaboratorios** | Gestión de la información de una red de laboratorios con lectura y escritura de ficheros | Java · Ficheros |
 
